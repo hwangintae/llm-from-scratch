@@ -8,7 +8,14 @@
 ## 환경 설정
 docker-compose.yml를 실행하면 됩니다.
 
-## 1장 : 대규모 언어 모델 이해하기
+## [1장 : 대규모 언어 모델 이해하기](https://github.com/hwangintae/llm-from-scratch/pull/1)
+GPT가 Transformer를 이용한다는 것은 알고 있었는데 decoder만 사용하는지 몰랐다.
+
+few-shot, zero-shot에 대해 듣긴했지만 정확히 무엇을 뜻하는지 몰랐다.
+
+BERT와 GPT를 사용하고 있지만 둘의 차이에 대해 알게된 것은 처음이다.
+
+비교적 짧은 시간을 투자해서 다양한 내용을 알게되어 기쁘고 앞으로의 chapter가 기대된다.
 ## 2장 : 텍스트 데이터 다루기
 ## 3장 : 어텐션 메커니즘 구현하기
 ## 4장 : 밑바닥부터 GPT 모델 구현하기
