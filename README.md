@@ -31,7 +31,17 @@ BERT와 GPT를 사용하고 있지만 둘의 차이에 대해 알게된 것은 �
 강의를 들으면서 따라가야겠다.
 
 
-## 3장 : 어텐션 메커니즘 구현하기
+## [3장 : 어텐션 메커니즘 구현하기](https://github.com/hwangintae/llm-from-scratch/pull/3)
+딥러닝에 대한 기본적인 내용은 알고 있어서 sotfmax, dropout에 대한 사전지식은 있었지만,
+
+self attention 자체는 처음이라 이해하는데 어려웠다.
+
+RNN은 이전 은닉층의 데이터를 알 수 없어서 맥락을 이해할 수 없지만,
+self attention는 입력에 대한 attention score, attention weight를 이용해 문맥을 이해할 수 있다.
+
+정도만 이해했다.
+
+attention에 대해 이해를 하기 위해선 책을 여러번 읽어야겠다.
 ## 4장 : 밑바닥부터 GPT 모델 구현하기
 ## 5장 : 레이블이 없는 데이터를 활용한 사전 훈련
 ## 6장 : 분류를 위해 미세 튜닝하기
