@@ -29,7 +29,7 @@ BERT와 GPT를 사용하고 있지만 둘의 차이에 대해 알게된 것은 �
 강의를 들으면서 따라가야겠다.
 
 
-## [3장 : 어텐션 메커니즘 구현하기](https://github.com/hwangintae/llm-from-scratch/blob/main/ch1/ch3.ipynb)
+## [3장 : 어텐션 메커니즘 구현하기](https://github.com/hwangintae/llm-from-scratch/blob/main/ch3/ch3.ipynb)
 딥러닝에 대한 기본적인 내용은 알고 있어서 sotfmax, dropout에 대한 사전지식은 있었지만,
 
 self attention 자체는 처음이라 이해하는데 어려웠다.
