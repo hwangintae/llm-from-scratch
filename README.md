@@ -3,14 +3,12 @@
 > - 옮긴이 : [박해선](https://github.com/rickiepark)
 > - 출판사 : [길벗](https://github.com/gilbutITbook)
 
-[<밑바닥부터 만들면서 배우는 LLM> 완독챌린지](https://www.inflearn.com/challenge/lt밑바닥부터-만들면서-배우는-llm)에 참여하여 7주간 책읅 읽고 예제코드를 따라하면서 느낀점 작성
-
 ## 환경 설정
 - conda create -n llm-from-scratch python=3.11
 - conda activate llm-from-scratch
 - pip install -r requirements.txt
 
-## [1장 : 대규모 언어 모델 이해하기](https://github.com/hwangintae/llm-from-scratch/pull/1)
+## [1장 : 대규모 언어 모델 이해하기](https://github.com/hwangintae/llm-from-scratch/blob/main/ch1/README.md)
 GPT가 Transformer를 이용한다는 것은 알고 있었는데 decoder만 사용하는지 몰랐다.
 
 few-shot, zero-shot에 대해 듣긴했지만 정확히 무엇을 뜻하는지 몰랐다.
@@ -19,7 +17,7 @@ BERT와 GPT를 사용하고 있지만 둘의 차이에 대해 알게된 것은 �
 
 비교적 짧은 시간을 투자해서 다양한 내용을 알게되어 기쁘고 앞으로의 chapter가 기대된다.
 
-## [2장 : 텍스트 데이터 다루기](https://github.com/hwangintae/llm-from-scratch/pull/2)
+## [2장 : 텍스트 데이터 다루기](https://github.com/hwangintae/llm-from-scratch/blob/main/ch2/README.md)
 임베딩에 대해서 다루었다. 책 내용 중에 '셀프 어텐션 메커니즘 자체가 위치에 구애받지 않기...'가
 
 무슨 말인지 사실 이해가 잘 되지 않는다. 아직 잘 모르기 때문인거 같은데 글자 그대로 이해하기론
@@ -31,7 +29,7 @@ BERT와 GPT를 사용하고 있지만 둘의 차이에 대해 알게된 것은 �
 강의를 들으면서 따라가야겠다.
 
 
-## [3장 : 어텐션 메커니즘 구현하기](https://github.com/hwangintae/llm-from-scratch/pull/3)
+## [3장 : 어텐션 메커니즘 구현하기](https://github.com/hwangintae/llm-from-scratch/blob/main/ch1/ch3.ipynb)
 딥러닝에 대한 기본적인 내용은 알고 있어서 sotfmax, dropout에 대한 사전지식은 있었지만,
 
 self attention 자체는 처음이라 이해하는데 어려웠다.
